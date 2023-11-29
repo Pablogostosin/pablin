@@ -1,27 +1,22 @@
-h1{
-     text-align: center;
-     font-size: 40px;
-     color: rgb(250, 0, 0) ;
+body {
+     background-color: rgb(255, 238, 0);
+} 
+    
+h1  { 
+     texte-align: center
+ }
+ 
+ p {
+      text-align: center; 
+} 
 
-}
-
-p{
-
-    text-align: center;
-    font-size: 40px ;
-    color: rgb(255, 255, 255);
-    ;
-}
-body{
-     background-color: rgba(0, 136, 255, 0.603);
-     font-family: Verdana,  ;
-
-
-}
-teste{
-    color: #c01616;
-    color: rgb(100, 200, 50);
-}
+#PET  { 
+    font-size: 20px 
+  } 
+  
+    strong { 
+        color: #FF0000;
+ }   
 
 
 
